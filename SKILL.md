@@ -4,7 +4,7 @@ description: Card game art production workflow for AI agents. Use when producing
 ---
 
 # Card Art Production
-
+在制作4399卡牌小游戏沉淀下来一套可以稳定生产4399游戏盒IP角色卡牌美术的自动化管线
 这个 skill 用于把一组卡牌美术从零散生图变成可审核、可迭代、可定档的生产流程。核心原则：先建立角色六视图 anchor，再用 anchor 做单卡图生图，所有候选都保留 prompt/output/critique，最后由独立 reviewer 做单卡审核和系列一致性审核。
 
 ## 工作流
