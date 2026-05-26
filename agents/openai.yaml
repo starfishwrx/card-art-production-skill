@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡牌美术生产"
+  short_description: "用六视图 anchor、单卡迭代和审核定档生产系列卡牌美术。"
+  default_prompt: "用这个 skill 为一组卡牌建立角色六视图 anchor、生成 v1/v2 卡图候选，并按 PASS/FAIL 规则审核定档。"
